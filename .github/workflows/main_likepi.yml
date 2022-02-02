@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'likepi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E69D8566D534A7A9FBF4E8B719BEB40 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E867430584B54F1487CC42FF7EA83CC7 }}
           package: .
